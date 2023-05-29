@@ -1,1 +1,1 @@
-# ammi
+# Real-time chat app
